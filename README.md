@@ -20,3 +20,6 @@ Interactive Quiz Application built with React + Vite.
 ```bash
 npm install
 npm run dev
+
+## Live Link 
+https://satheesh-in.github.io/quiz-app/
